@@ -107,10 +107,13 @@ section {
   text-justify: inter-word;
 }
 
-.label {
+.mlabel {
+  border-radius: 10px;
+  background: #660000;
   text-justify: none;
   display: inline-block;
   font-weight: bold;
+  color: #f9f9f9;
 }
 
 .booktitle {
