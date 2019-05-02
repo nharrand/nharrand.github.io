@@ -120,6 +120,12 @@ section {
   font-style: italic;
 }
 
+.footer {
+  text-align: center;
+  color: #888888;
+  font-size: 0.75em;
+}
+
 /* Pre and Code */
 pre {
   background-color: #f1f1f1;
