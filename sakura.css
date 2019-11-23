@@ -107,6 +107,10 @@ section {
   text-justify: inter-word;
 }
 
+.header {
+  overflow-y: hidden
+}
+
 .mlabel {
   border-radius: 10px;
   background: #DCC4C4;
